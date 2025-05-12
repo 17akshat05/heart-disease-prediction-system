@@ -100,7 +100,7 @@ The model is trained on the Heart Disease dataset. You can find the dataset in t
 For detailed project documentation and report, please refer to the project report in the `REPORT` directory.
 
 ## Demo Video
-Watch the demo video in the project documentation.
+Watch the demo video in the project documentation. 
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
