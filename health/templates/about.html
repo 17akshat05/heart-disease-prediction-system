@@ -1,0 +1,33 @@
+{% extends 'index.html' %}
+{% load static %}
+{% block body %}
+
+<section class="about py-5">
+	<div class="container py-xl-5 py-lg-3">
+		<div class="title-section mb-md-5 mb-4">
+			<center>
+			<h3 class="w3ls-title text-uppercase text-bl font-weight-bold" style="margin-bottom: -20px; margin-top: 20px;">About Me</h3>
+			</center>
+		</div>
+		<hr />
+
+		<div>
+			<center>
+			<img src="{% static 'images/Picture1.jpg' %}" alt="" class="img-fluid" width="350px" />
+			</center>
+			<br><br>
+		</div>
+		<div>
+			<center>
+			<h6 class="subheading-w3ls text-uppercase text-bl mb-4">Heart Disease Prediction System- <span style="color: #61bebc;">Designed By Ankit Kumar</span> </h6>
+			</center>
+			<p>Hey I am Ankit Kumar, a B.Tech student in Computer Science and Engineering at JECRC University. I aspire to become a skilled software developer and have a strong interest in Artificial Intelligence (AI), Machine Learning (ML), and DevOps. I have actively contributed to 5+ open-source projects, which has helped me gain real-world development experience, improve collaboration skills, and deepen my understanding of modern software practices. I am passionate about building impactful solutions and continuously learning to stay at the forefront of technology.</p>
+		</div>
+
+
+	</div>
+	</div>
+</section>
+
+
+{% endblock %}

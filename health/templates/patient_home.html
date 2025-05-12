@@ -1,0 +1,14 @@
+{% extends 'index.html' %}
+{% load static %}
+{% block body %}
+
+<div class="container-fluid" style="background-color: #CFEBEA;">
+    <h2 align="center" style="font-weight:bold;font-family:roman">PATIENT DASHBORAD</h2><hr/>
+    <br>
+    <center>
+    <h1>Welcome, {{ request.user.first_name }}</h1>
+    <img src="{%static 'images/hearth-1674896_1920.png' %}" class="w-50 h-50" alt="">
+    </center>
+</div>
+
+{% endblock %}
