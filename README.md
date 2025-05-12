@@ -86,7 +86,7 @@ The system uses Gradient Boosting Classifier for heart disease prediction. The m
 ## Dataset
 The model is trained on the Heart Disease dataset. You can find the dataset in the `Machine_Learning/heart.csv` file.
 
-## Screenshots
+## Screenshots:
 ### Welcome Page
 <img src="SCREEN-SHOTS/WelcomePage.png" alt="Welcome Page" width="600"/>
 
