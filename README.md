@@ -62,7 +62,7 @@ pip install -r requirements.txt
 python manage.py migrate
 ```
 
-6. Start the development server
+6. Start the development server 
 ```bash
 python manage.py runserver
 ```
