@@ -46,7 +46,7 @@ git clone https://github.com/ankit-kumarz/Heart-Disease-Prediction-System
 cd Heart-Disease-Prediction-System
 ```
 
-3. Create and activate virtual environment
+3. Create and activate virtual environment 
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
