@@ -109,7 +109,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
-- **Ankit Kumar** - [GitHub Profile](https://github.com/ankit-kumarz)
+- **Ankit Kumar** - [GitHub Profile](https://github.com/ankit-kumarz) 
 
 ## Acknowledgments
 - Thanks to all contributors who have helped in developing this project
