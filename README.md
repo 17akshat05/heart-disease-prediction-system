@@ -7,7 +7,7 @@
 A web-based Heart Disease Prediction System that uses Machine Learning to predict the likelihood of heart disease based on various medical parameters. The system helps in early detection of heart disease by analyzing patient data and providing predictions using advanced ML algorithms.
 
 ## Features
-- 🔐 User Authentication (Patient, Doctor, Admin) 
+- 🔐 User Authentication (Patient, Doctor, Admin)
 - 📊 Heart Disease Prediction using ML
 - 👨‍⚕️ Doctor Search and Management
 - 📝 Patient Records Management
