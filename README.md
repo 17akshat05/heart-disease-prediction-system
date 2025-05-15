@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9865e6812bde234e4879e40c3f30e8fe3f67e9e3
 # Heart Disease Prediction System
 
 <img src="SCREEN-SHOTS/Heart-Disease-Prediction-System-banner.png" alt="Project Banner" />
@@ -45,7 +49,11 @@ git clone https://github.com/ankit-kumarz/Heart-Disease-Prediction-System
 cd Heart-Disease-Prediction-System
 ```
 
+<<<<<<< HEAD
 3. Create and activate virtual environment
+=======
+3. Create and activate virtual environment  
+>>>>>>> 9865e6812bde234e4879e40c3f30e8fe3f67e9e3
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -61,7 +69,11 @@ pip install -r requirements.txt
 python manage.py migrate
 ```
 
+<<<<<<< HEAD
 6. Start the development server
+=======
+6. Start the development server 
+>>>>>>> 9865e6812bde234e4879e40c3f30e8fe3f67e9e3
 ```bash
 python manage.py runserver
 ```
@@ -85,7 +97,11 @@ The system uses Gradient Boosting Classifier for heart disease prediction. The m
 ## Dataset
 The model is trained on the Heart Disease dataset. You can find the dataset in the `Machine_Learning/heart.csv` file.
 
+<<<<<<< HEAD
 ## Screenshots
+=======
+## Screenshots:
+>>>>>>> 9865e6812bde234e4879e40c3f30e8fe3f67e9e3
 ### Welcome Page
 <img src="SCREEN-SHOTS/WelcomePage.png" alt="Welcome Page" width="600"/>
 
@@ -99,7 +115,11 @@ The model is trained on the Heart Disease dataset. You can find the dataset in t
 For detailed project documentation and report, please refer to the project report in the `REPORT` directory.
 
 ## Demo Video
+<<<<<<< HEAD
 Watch the demo video in the project documentation.
+=======
+Watch the demo video in the project documentation. 
+>>>>>>> 9865e6812bde234e4879e40c3f30e8fe3f67e9e3
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -108,9 +128,16 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
+<<<<<<< HEAD
 - **Ankit Kumar** - [GitHub Profile](https://github.com/ankit-kumarz)
+=======
+- **Ankit Kumar** - [GitHub Profile](https://github.com/ankit-kumarz) 
+>>>>>>> 9865e6812bde234e4879e40c3f30e8fe3f67e9e3
 
 ## Acknowledgments
 - Thanks to all contributors who have helped in developing this project
 - Special thanks to the open-source community for their valuable tools and libraries
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9865e6812bde234e4879e40c3f30e8fe3f67e9e3
