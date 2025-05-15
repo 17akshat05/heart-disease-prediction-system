@@ -87,7 +87,7 @@ The system uses Gradient Boosting Classifier for heart disease prediction. The m
 - Exercise Induced Angina
 - ST Depression
 - Slope
-- Number of Major Vessels
+- Number of Major Vessels 
 - Thalassemia
 
 ## Dataset
