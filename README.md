@@ -1,4 +1,4 @@
-# Heart Disease Prediction System
+# Heart Disease Prediction System 
 
 <img src="SCREEN-SHOTS/Heart-Disease-Prediction-System-banner.png" alt="Project Banner" />
 
