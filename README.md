@@ -128,7 +128,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Ankit Kumar** - [GitHub Profile](https://github.com/ankit-kumarz)
 
 
-## Acknowledgments
+## Acknowledgments 
 - Thanks to all contributors who have helped in developing this project
 - Special thanks to the open-source community for their valuable tools and libraries
 <<<<<<< HEAD
