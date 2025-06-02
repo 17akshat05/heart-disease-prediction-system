@@ -64,7 +64,7 @@ pip install -r requirements.txt
 python manage.py migrate
 ```
 
-#6. Start the development server
+## 6. Start the development server
 =======
 6. Start the development server 
 >>>>>>> 9865e6812bde234e4879e40c3f30e8fe3f67e9e3
@@ -112,7 +112,7 @@ For detailed project documentation and report, please refer to the project repor
 Watch the demo video in the project documentation.
 =======
 Watch the demo video in the project documentation. 
->>>>>>> 9865e6812bde234e4879e40c3f30e8fe3f67e9e3
+
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -127,7 +127,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments 
 - Thanks to all contributors who have helped in developing this project
 - Special thanks to the open-source community for their valuable tools and libraries
-<<<<<<< HEAD
 
 =======
 
