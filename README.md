@@ -45,8 +45,7 @@ git clone https://github.com/ankit-kumarz/Heart-Disease-Prediction-System
 cd Heart-Disease-Prediction-System
 ```
 
-<<<<<<< HEAD
-3. Create and activate virtual environment
+## 3. Create and activate virtual environment
 =======
 3. Create and activate virtual environment  
 >>>>>>> 9865e6812bde234e4879e40c3f30e8fe3f67e9e3
