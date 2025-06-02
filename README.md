@@ -65,8 +65,7 @@ pip install -r requirements.txt
 python manage.py migrate
 ```
 
-<<<<<<< HEAD
-6. Start the development server
+#6. Start the development server
 =======
 6. Start the development server 
 >>>>>>> 9865e6812bde234e4879e40c3f30e8fe3f67e9e3
