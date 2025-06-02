@@ -109,7 +109,6 @@ The model is trained on the Heart Disease dataset. You can find the dataset in t
 For detailed project documentation and report, please refer to the project report in the `REPORT` directory.
 
 ## Demo Video
-<<<<<<< HEAD
 Watch the demo video in the project documentation.
 =======
 Watch the demo video in the project documentation. 
@@ -122,7 +121,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
-<<<<<<< HEAD
 - **Ankit Kumar** - [GitHub Profile](https://github.com/ankit-kumarz)
 
 
