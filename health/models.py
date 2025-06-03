@@ -34,6 +34,8 @@ class Admin_Helath_CSV(models.Model):
     def __str__(self):
         return self.name
 
+
+
 class Search_Data(models.Model):
     patient = models.ForeignKey(Patient, on_delete=models.CASCADE, null=True)
     prediction_accuracy = models.CharField(max_length=100,null=True,blank=True)
