@@ -122,6 +122,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 - **Ankit Kumar** - [GitHub Profile](https://github.com/ankit-kumarz)
+- **Akshat Jain** - [GitHub Profile](https://github.com/17akshat05)
+- **Akshita Agarwal** 
 
 
 ## Acknowledgments 
